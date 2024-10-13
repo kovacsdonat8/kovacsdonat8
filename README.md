@@ -2,7 +2,7 @@
 
 - 🎓 I’m learning Computer Science Engineering at Budapest University of Technology and Economics
 - 📧 kovacsdonat@edu.bme.hu
-- <a href="www.linkedin.com/in/donát-kovács-94a935332">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/donát-kovács-94a935332">LinkedIn</a>
 
 #### Programming languages:
 <img src="https://github.com/user-attachments/assets/fec751e2-73f2-44ba-9aef-fce734de69be" width="50"/>
