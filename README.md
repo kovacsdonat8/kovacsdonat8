@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🎓 I’m learning Computer Science Engineering at Budapest University of Technology and Economics
+- 🎓 I am learning Computer Science Engineering at Budapest University of Technology and Economics
+- 🏎️ I am a member of the Driverless group in the BME Formula Racing Team
 - 📧 kovacsdonat@edu.bme.hu
 - <a href="https://www.linkedin.com/in/donát-kovács-94a935332">LinkedIn</a>
 
