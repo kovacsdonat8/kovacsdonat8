@@ -16,4 +16,4 @@
 <img src="https://github.com/user-attachments/assets/86c9a2db-059f-4f2e-8dc5-324588bdf22d" width="50"/>
 
 #### Stats (incomplete because of private repos):
-[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kovacsdonat8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
