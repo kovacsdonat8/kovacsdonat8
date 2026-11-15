@@ -4,19 +4,35 @@ I specialize in mobile and frontend web development, focusing on clean architect
 
 - 🎓 I'm doing my Master's in Computer Science Engineering at Budapest University of Technology and Economics
 - 💻 Working as a Frontend Developer
-- 📫 How to reach me:
-  - 📧 kovacsdonat@edu.bme.hu
-  - <sub><img src="https://github.com/user-attachments/assets/c627a4c7-5204-412d-93d2-8f5290ae6ca3" width="20" /></sub>&#8196;<a href="https://www.linkedin.com/in/kovacsdonat">LinkedIn</a>
+- **How to reach me:**
+  - <sub><img src="https://skillicons.dev/icons?i=gmail" width="18" /></sub> [kovacsdonat@edu.bme.hu](mailto:kovacsdonat@edu.bme.hu)
+  - <sub><img src="https://skillicons.dev/icons?i=linkedin" width="18" /></sub> [LinkedIn](https://www.linkedin.com/in/kovacsdonat)
 
-#### Programming languages:
-<img src="https://github.com/user-attachments/assets/fec751e2-73f2-44ba-9aef-fce734de69be" width="50"/>
-<img src="https://github.com/user-attachments/assets/ed795fa7-8080-4d68-901c-ab685f456426" width="50"/>
-<img src="https://github.com/user-attachments/assets/aef8d040-bd65-4128-93d6-8289fcde9fe8" width="50"/>
-<img src="https://github.com/user-attachments/assets/5dcd1b75-564a-4e2a-9a43-a328e6b541a9" width="50"/>
-<img src="https://github.com/user-attachments/assets/da4f078d-7f0e-47e1-b859-37ecc0fa4f4f" width="50"/>
-<img src="https://github.com/user-attachments/assets/bf8aea9d-b31e-4128-b920-336ca53f0304" width="50"/>
-<img src="https://github.com/user-attachments/assets/8f5a39e0-7cf8-4818-afad-2af41e5c4624" width="50"/>
-<img src="https://github.com/user-attachments/assets/86c9a2db-059f-4f2e-8dc5-324588bdf22d" width="50"/>
+---
 
-#### 📊 GitHub Stats
+### Tech Stack
+
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,java,cs,python,cpp,c" alt="Languages" />
+</p>
+
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,html,css,sass,tailwind,jest,androidstudio,figma" alt="Frontend and Mobile" />
+</p>
+
+**Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,ktor,graphql,postgres,mysql,mongodb,firebase,supabase" alt="Backend and Databases" />
+</p>
+
+**Infrastructure & Tooling**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,windows,linux,bash,vercel,gradle,postman,vscode,idea" alt="Infrastructure and Tooling" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
 ![Donát's GitHub Stats](./github-stats.svg)
