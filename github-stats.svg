@@ -9,15 +9,15 @@
       <text x="25" y="40" class="header">Donát's GitHub Stats</text>
 
       <text x="25" y="90" class="stat">Total Stars:</text>
-      <text x="170" y="90" class="value">0</text>
+      <text x="170" y="90" class="value">2</text>
 
       <text x="25" y="120" class="stat">Total Commits (1 yr):</text>
-      <text x="170" y="120" class="value">0</text>
+      <text x="170" y="120" class="value">845</text>
 
       <text x="25" y="150" class="stat">Total Repositories:</text>
-      <text x="170" y="150" class="value">0</text>
+      <text x="170" y="150" class="value">28</text>
 
       <text x="25" y="180" class="stat">Followers:</text>
-      <text x="170" y="180" class="value">0</text>
+      <text x="170" y="180" class="value">4</text>
     </svg>
   
