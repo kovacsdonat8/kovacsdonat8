@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Donát 👋
 
-- 🎓 I am learning Computer Science Engineering at Budapest University of Technology and Economics
-- 📧 kovacsdonat@edu.bme.hu
-- <sub><img src="https://github.com/user-attachments/assets/c627a4c7-5204-412d-93d2-8f5290ae6ca3" width="20" /></sub>&#8196;<a href="https://www.linkedin.com/in/kovacsdonat">LinkedIn</a>
+I specialize in mobile and frontend web development, focusing on clean architecture and smooth user experiences.
+
+- 🎓 I'm doing my Master's in Computer Science Engineering at Budapest University of Technology and Economics
+- 💻 Working as a Frontend Developer
+- 📫 How to reach me:
+  - 📧 kovacsdonat@edu.bme.hu
+  - <sub><img src="https://github.com/user-attachments/assets/c627a4c7-5204-412d-93d2-8f5290ae6ca3" width="20" /></sub>&#8196;<a href="https://www.linkedin.com/in/kovacsdonat">LinkedIn</a>
 
 #### Programming languages:
 <img src="https://github.com/user-attachments/assets/fec751e2-73f2-44ba-9aef-fce734de69be" width="50"/>
@@ -13,6 +17,3 @@
 <img src="https://github.com/user-attachments/assets/bf8aea9d-b31e-4128-b920-336ca53f0304" width="50"/>
 <img src="https://github.com/user-attachments/assets/8f5a39e0-7cf8-4818-afad-2af41e5c4624" width="50"/>
 <img src="https://github.com/user-attachments/assets/86c9a2db-059f-4f2e-8dc5-324588bdf22d" width="50"/>
-
-#### Stats (incomplete because of private repos):
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kovacsdonat8&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=kovacsdonat8&layout=compact)
