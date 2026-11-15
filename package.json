@@ -1,0 +1,20 @@
+{
+  "name": "kovacsdonat8",
+  "version": "1.0.0",
+  "description": "I specialize in mobile and frontend web development, focusing on clean architecture and smooth user experiences.",
+  "main": "generate-stats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kovacsdonat8/kovacsdonat8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kovacsdonat8/kovacsdonat8/issues"
+  },
+  "homepage": "https://github.com/kovacsdonat8/kovacsdonat8#readme"
+}
