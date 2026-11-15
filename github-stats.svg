@@ -1,0 +1,23 @@
+
+    <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .header { font: 600 18px 'Segoe UI', Arial, sans-serif; fill: #E5E7EB; }
+        .stat { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #9CA3AF; }
+        .value { font: 700 14px 'Segoe UI', Arial, sans-serif; fill: #10B981; }
+      </style>
+      <rect width="100%" height="100%" fill="#111827" rx="8" />
+      <text x="25" y="40" class="header">Donát's GitHub Stats</text>
+
+      <text x="25" y="90" class="stat">Total Stars:</text>
+      <text x="170" y="90" class="value">0</text>
+
+      <text x="25" y="120" class="stat">Total Commits (1 yr):</text>
+      <text x="170" y="120" class="value">0</text>
+
+      <text x="25" y="150" class="stat">Total Repositories:</text>
+      <text x="170" y="150" class="value">0</text>
+
+      <text x="25" y="180" class="stat">Followers:</text>
+      <text x="170" y="180" class="value">0</text>
+    </svg>
+  
