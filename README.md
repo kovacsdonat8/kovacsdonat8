@@ -17,3 +17,6 @@ I specialize in mobile and frontend web development, focusing on clean architect
 <img src="https://github.com/user-attachments/assets/bf8aea9d-b31e-4128-b920-336ca53f0304" width="50"/>
 <img src="https://github.com/user-attachments/assets/8f5a39e0-7cf8-4818-afad-2af41e5c4624" width="50"/>
 <img src="https://github.com/user-attachments/assets/86c9a2db-059f-4f2e-8dc5-324588bdf22d" width="50"/>
+
+#### 📊 GitHub Stats
+![Donát's GitHub Stats](./github-stats.svg)
