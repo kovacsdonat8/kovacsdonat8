@@ -37,7 +37,7 @@
 
     <g transform="translate(195, 68)">
       <text x="0" y="0" class="metric-val">13 <tspan font-size="14" font-weight="600" fill="#64748b">days</tspan></text>
-      <text x="0" y="18" class="metric-label">Longest Streak (Curr: 3d)</text>
+      <text x="0" y="18" class="metric-label">Longest Streak (Curr: 0d)</text>
     </g>
 
     <line x1="22" y1="108" x2="344" y2="108" stroke="#1e293b" stroke-width="1" />
